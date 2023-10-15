@@ -1,0 +1,65 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+	text-align:center;
+	color: darkslateblue;
+	font-family: 
+}
+
+h2 {
+	text-align:center;
+	color: darkslategray;
+	border-top: 1px solid gray;
+	font-family:
+}
+
+p {
+	text-align: center;
+	font-family: simplex;
+	font-weight: bold;
+}
+
+/* this allows me to center the list on the page by creating an in-line block*/
+div.list {
+	text-align: center;
+	font-family: simplex;
+	font-weight: bold;
+}
+ul.thisUL {
+	display: inline-block;
+	text-align: left;
+}
+
+/*  */
+#ref {
+	text-align: center;
+	color: slateblue;
+	font-family: monotype corsiva;
+}
+
+/* class attributed to photos to center on page, as well as build a border */
+img.image{
+	border: 5px solid darkslateblue;
+	border-radius: 8px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table{
+	width: 30%;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 10px;
+}
+	
+th, td {
+  border:4px solid lavender;
+  padding: 2px;
+  text-align:center;
+  font-family: rockwell condensed;
+}
+
+tr:hover {background-color: lavender;}
