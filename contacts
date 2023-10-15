@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="mystyle.css">
+</head>
+<body>
+
+<h1 id="ref">References</h1>
+
+<p>Please contact other penguins below. They will confirm that I am a good penguin.</p>
+
+<!-- TableOption Begin -->
+<table>
+	<tr>
+		<th>Name</th>
+		<th>Twitter</th>
+		<th>Residence</th>
+	</tr>
+	<tr>
+		<td>Pingu Penguin</td>
+		<td>@noot_noot</td>
+		<td>Switzerland</td>
+	</tr>
+	<tr>
+		<td>Skipper</td>
+		<td>@SmileAndWaveBoys</td>
+		<td>Madagascar</td>
+	</tr>
+	<tr>
+		<td>Mario Lemieux</td>
+		<td>@gretzky-sux</td>
+		<td>Pittsburgh, Pennsylvania</td>
+	</tr>
+	<tr>
+		<td>Mumble</td>
+		<td>@elijahwood</td>
+		<td>Antarctica</td>
+	</tr>
+	<tr>
+		<td>Wheezy</td>
+		<td>@toystorysqueek</td>
+		<td>Tri-County Area</td>
+	</tr>
+</table>
+<!-- TableOption End -->
+
+<img class="image" src="images/feefer-family.jpg" alt="Feefer and the gang">
+
+</body>
+</html>
