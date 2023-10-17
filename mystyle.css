@@ -91,7 +91,7 @@ table{
 }
 
 /* I wanted the table to look less ugly and implemented
-some more soft colours to much the website aesthetic*/	
+some more soft colours to match the website aesthetic. */	
 th, td {
   border:4px solid lavender;
   padding: 2px;
@@ -103,15 +103,22 @@ my table. I found the instructions on w3schools.
 https://www.w3schools.com/html/html_table_styling.asp*/
 tr:hover {background-color: lavender;}
 
+/* These two classes were to differentiate the actual links from
+the relative links as well as centering them to the web page. I had 
+a difficult time centering the pair of links on the screen and ended 
+up using an awkward 'width' property. */
 div.links{
 	margin: auto;
 	width: 52%;	
 }
 
+/* The a.ext class allowed me to 
+build a stylized button to match with the web page. 
+https://www.w3schools.com/css/css_link.asp  */
 a.ext{
 	background-color: slateblue;
 	color: lavender;
-	padding: 14px 25px;
+	padding: 10px 20px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
