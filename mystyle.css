@@ -125,14 +125,3 @@ a.ext{
 	font-family: simplex;
 	font-weight: bold;
 }
-
-.column{
-	float: left;
-	padding: 5px;
-}
-
-.row{
-	content: "";
-	clear: both;
-	display: table;
-}
