@@ -79,7 +79,8 @@ img{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
 }
 /* This table selector allows me to center the table
 on the page above the photo, as well as alter the amount
