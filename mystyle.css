@@ -131,7 +131,7 @@ a.ext{
 /* Since I took all my photos off of my phone I was fortunate enough
 that each photo's dimmensions were identical. I forced them to their
 native resolution here with this .mtl class.*/
-div.mtl{
+.mtl{
 	width: 378px;
 	height: 504px;
 }
